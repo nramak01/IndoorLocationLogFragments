@@ -1,0 +1,120 @@
+04-24 12:14:56.650 12280-12280/? W/IInputConnectionWrapper: finishComposingText on inactive InputConnection
+04-24 12:15:42.890 12280-12280/? W/IInputConnectionWrapper: finishComposingText on inactive InputConnection
+04-24 12:15:45.754 12280-12280/? W/IInputConnectionWrapper: finishComposingText on inactive InputConnection
+04-24 12:15:54.097 12280-12280/? W/IInputConnectionWrapper: finishComposingText on inactive InputConnection
+04-24 12:15:54.097 12280-12280/? W/IInputConnectionWrapper: getExtractedText on inactive InputConnection
+04-24 12:15:54.113 12280-12280/? W/IInputConnectionWrapper: getTextBeforeCursor on inactive InputConnection
+04-24 12:15:54.130 12280-12280/? W/IInputConnectionWrapper: getSelectedText on inactive InputConnection
+04-24 12:15:54.146 12280-12280/? W/IInputConnectionWrapper: getTextAfterCursor on inactive InputConnection
+04-24 12:18:35.261 12280-12280/? W/IInputConnectionWrapper: finishComposingText on inactive InputConnection
+04-24 12:18:42.209 12280-12280/? W/IInputConnectionWrapper: reportFullscreenMode on inexistent InputConnection
+04-24 12:18:42.209 12280-12280/? W/IInputConnectionWrapper: finishComposingText on inactive InputConnection
+04-24 12:18:46.723 12280-12280/? W/IInputConnectionWrapper: reportFullscreenMode on inexistent InputConnection
+04-24 12:18:46.724 12280-12280/? W/IInputConnectionWrapper: finishComposingText on inactive InputConnection
+04-24 12:18:58.939 2869-687/? D/FA-SVC: Got package replaced intent: uk.ac.bbk.android.locationlog
+04-24 12:18:59.763 809-809/uk.ac.bbk.android.locationlog I/FA: App measurement is starting up, version: 10084
+04-24 12:18:59.763 809-809/uk.ac.bbk.android.locationlog I/FA: To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+04-24 12:18:59.763 809-809/uk.ac.bbk.android.locationlog D/FA: Debug-level message logging enabled
+04-24 12:18:59.764 809-809/uk.ac.bbk.android.locationlog D/FA: AppMeasurement singleton hash: 96367999
+04-24 12:18:59.772 809-809/uk.ac.bbk.android.locationlog V/FA: Collection enabled
+04-24 12:18:59.772 809-809/uk.ac.bbk.android.locationlog V/FA: App package, google app id: uk.ac.bbk.android.locationlog, 1:805168846686:android:30e1da61a0bd6bf8
+04-24 12:18:59.773 809-809/uk.ac.bbk.android.locationlog I/FA: To enable faster debug mode event logging run:
+                                                                 adb shell setprop debug.firebase.analytics.app uk.ac.bbk.android.locationlog
+04-24 12:18:59.793 809-809/uk.ac.bbk.android.locationlog V/FA: Registered activity lifecycle callback
+04-24 12:18:59.798 809-856/uk.ac.bbk.android.locationlog V/FA: Using measurement service
+04-24 12:18:59.800 809-856/uk.ac.bbk.android.locationlog V/FA: Connecting to remote service
+04-24 12:18:59.883 809-809/uk.ac.bbk.android.locationlog V/FA: onActivityCreated
+04-24 12:18:59.931 809-856/uk.ac.bbk.android.locationlog V/FA: Using measurement service
+04-24 12:18:59.931 809-856/uk.ac.bbk.android.locationlog V/FA: Connection attempt already in progress
+04-24 12:18:59.932 809-856/uk.ac.bbk.android.locationlog V/FA: Activity resumed, time: 427877649
+04-24 12:19:00.047 809-856/uk.ac.bbk.android.locationlog V/FA: Screen exposed for less than 1000 ms. Event not sent. time: 116
+04-24 12:19:00.047 809-856/uk.ac.bbk.android.locationlog V/FA: Using measurement service
+04-24 12:19:00.047 809-856/uk.ac.bbk.android.locationlog V/FA: Connection attempt already in progress
+04-24 12:19:00.048 809-856/uk.ac.bbk.android.locationlog V/FA: Activity paused, time: 427877765
+04-24 12:19:00.184 809-856/uk.ac.bbk.android.locationlog D/FA: Connected to remote service
+04-24 12:19:00.184 809-856/uk.ac.bbk.android.locationlog V/FA: Processing queued up service tasks: 3
+04-24 12:19:00.219 809-856/uk.ac.bbk.android.locationlog V/FA: Activity resumed, time: 427877936
+04-24 12:19:01.763 809-859/uk.ac.bbk.android.locationlog W/SyncTree: Listen at /message failed: DatabaseError: Permission denied
+04-24 12:19:01.765 809-859/uk.ac.bbk.android.locationlog W/RepoOperation: setValue at /message failed: DatabaseError: Permission denied
+04-24 12:19:01.766 809-859/uk.ac.bbk.android.locationlog W/RepoOperation: setValue at /message failed: DatabaseError: Permission denied
+04-24 12:19:05.221 809-856/uk.ac.bbk.android.locationlog V/FA: Inactivity, disconnecting from the service
+04-24 12:19:10.105 809-856/uk.ac.bbk.android.locationlog V/FA: Session started, time: 427887822
+04-24 12:19:10.129 809-856/uk.ac.bbk.android.locationlog I/FA: Tag Manager is not found and thus will not be used
+04-24 12:19:10.133 809-856/uk.ac.bbk.android.locationlog D/FA: Logging event (FE): _s, Bundle[{_o=auto, _sc=LocationLogActivity, _si=7411259849189146463}]
+04-24 12:19:10.153 809-856/uk.ac.bbk.android.locationlog V/FA: Using measurement service
+04-24 12:19:10.153 809-856/uk.ac.bbk.android.locationlog V/FA: Connecting to remote service
+04-24 12:19:10.158 809-856/uk.ac.bbk.android.locationlog D/FA: Connected to remote service
+04-24 12:19:10.158 809-856/uk.ac.bbk.android.locationlog V/FA: Processing queued up service tasks: 1
+04-24 12:19:10.174 2869-884/? V/FA-SVC: Logging event: origin=auto,name=_s,params=Bundle[mParcelledData.dataSize=120]
+04-24 12:19:10.180 2869-884/? V/FA-SVC: Saving event, name, data size: _s, 64
+04-24 12:19:10.180 2869-884/? V/FA-SVC: Event recorded: Event{appId='uk.ac.bbk.android.locationlog', name='_s', params=Bundle[{_o=auto, _sc=LocationLogActivity, _si=7411259849189146463}]}
+04-24 12:19:10.182 2869-884/? V/FA-SVC: Upload scheduled in approximately ms: 14924
+04-24 12:19:10.186 2869-884/? V/FA-SVC: Background event processing time, ms: 12
+04-24 12:19:15.172 809-856/uk.ac.bbk.android.locationlog V/FA: Inactivity, disconnecting from the service
+04-24 12:19:25.134 2869-2869/? V/FA-SVC: Device receiver got: com.google.android.gms.measurement.UPLOAD
+04-24 12:19:25.149 2869-2869/? V/FA-SVC: Device PackageMeasurementService is starting up
+04-24 12:19:25.150 2869-2869/? V/FA-SVC: Device PackageMeasurementService called. startId, action: 1, com.google.android.gms.measurement.UPLOAD
+04-24 12:19:25.156 2869-884/? D/FA-SVC: Uploading events. Elapsed time since last upload attempt (ms): 13574287
+04-24 12:19:25.161 2869-884/? V/FA-SVC: Fetching remote configuration: uk.ac.bbk.android.locationlog
+04-24 12:19:25.164 2869-2869/? V/FA-SVC: Device PackageMeasurementService processed last upload request
+04-24 12:19:25.165 2869-2869/? V/FA-SVC: Device PackageMeasurementService is shutting down
+04-24 12:19:25.778 2869-884/? W/FA-SVC: Config not found. Using empty config. appId: uk.ac.bbk.android.locationlog
+04-24 12:19:25.795 2869-884/? W/FA-SVC: Did not find measurement config or missing version info. appId: uk.ac.bbk.android.locationlog
+04-24 12:19:25.797 2869-884/? V/FA-SVC: Saving bundle, size: 447
+04-24 12:19:25.798 2869-884/? D/FA-SVC: Uploading events. Elapsed time since last upload attempt (ms): 13574919
+04-24 12:19:25.801 2869-884/? V/FA-SVC: Uploading data. app, uncompressed size, data: uk.ac.bbk.android.locationlog, 502, 
+                                        batch {
+                                          bundle {
+                                            protocol_version: 1
+                                            platform: android
+                                            gmp_version: 10084
+                                            uploading_gmp_version: 10298
+                                            gmp_app_id: 1:805168846686:android:30e1da61a0bd6bf8
+                                            app_id: uk.ac.bbk.android.locationlog
+                                            app_version: 1.0
+                                            app_version_major: 1
+                                            firebase_instance_id: e39VRo0omwo
+                                            dev_cert_hash: 1624010988420210163
+                                            app_store: manual_install
+                                            upload_timestamp_millis: 1493032765784
+                                            start_timestamp_millis: 1493032750106
+                                            end_timestamp_millis: 1493032750106
+                                            previous_bundle_start_timestamp_millis: 1493015667651
+                                            previous_bundle_end_timestamp_millis: 1493015901760
+                                            app_instance_id: 78f9b29840ca5e0addc3e81a3ee0a11d
+                                            resettable_device_id: c3827ba8-e3a7-4de9-a83b-f55d1cb1b297
+                                            limited_ad_tracking: false
+                                            os_version: 7.0
+                                            device_model: ONEPLUS A3003
+                                            user_default_language: en-gb
+                                            time_zone_offset_minutes: 60
+                                            bundle_sequential_index: 3
+                                            service_upload: true
+                                            health_monitor: 2:2WP10298:Did not find measurement config or missing version info. appId: uk.ac.bbk.android.locationlog
+                                            user_property {
+                                              set_timestamp_millis: 1493015547923
+                                              name: _fot
+                                              int_value: 1493017200000
+                                            }
+                                            event {
+                                              name: _s
+                                              timestamp_millis: 1493032750106
+                                              previous_timestamp_millis: 1493015557815
+                                              param {
+                                                name: _o
+                                                string_value: auto
+                                              }
+                                              param {
+                                                name: _sc
+                                                string_value: LocationLogActivity
+                                              }
+                                              param {
+                                                name: _si
+                                                int_value: 7411259849189146463
+                                              }
+                                            }
+                                          }
+                                        }
+04-24 12:19:25.804 2869-1305/? V/FA-SVC: Uploading data. size: 461
+04-24 12:19:25.860 2869-884/? V/FA-SVC: Upload scheduled in approximately ms: 3599995
+04-24 12:19:25.865 2869-884/? V/FA-SVC: Successful upload. Got network response. code, size: 204, 0
